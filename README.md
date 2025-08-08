@@ -3,6 +3,9 @@
 ## Database Design and Development (CS4092) - Final Project
 ### Advait Vagerwal, Sahil Thakare, Samarth Prajapati
 
+## ALSO: Programming Languages CS 3003 - Final Project
+### Sahil Thakare
+
 This database system is designed to support the operations of a stock broker company. It manages users, stocks, portfolios, market orders, price history, and watchlists. The schema is built using a relational model with six interconnected tables.
 ##  Database Tables
 
